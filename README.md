@@ -6,7 +6,7 @@ small and simple to use blogging platform made using bash, pandoc, markdown and 
 
 
 ## usage
-- install brew from ![here](https://brew.sh)
+- install brew from [here](https://brew.sh)
 - install pandoc via brew `brew install pandoc`
 - clone the repository: `https://github.com/nick-walls/hackPHS-project.git`
 - to convert your file to html use
