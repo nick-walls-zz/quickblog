@@ -18,10 +18,10 @@ font-family: 'Didact Gothic', sans-serif;
 }
 
 blockquote {
-  background: #f9f9f9;
-  border-left: 10px solid #ccc;
-  margin: 1.5em 10px;
-  padding: 0.5em 10px;
+  background: #1f1e1d;
+  border-left: 5px solid #403f3e;
+  margin: 0.3em 7px;
+  padding: 0.2em 7px;
   quotes: "\201C""\201D""\2018""\2019";
 }
 
