@@ -8,12 +8,3 @@
 this is a just the demo of quickblog, the simple blogging platform built with pandoc and bash
 
 ## entries:
-
-
- [my time looking at 8g sis](civic.html)
-
- [sai](guy.html)
-
- [ger](poger.html)
-
- [g](g.html)
